@@ -13,7 +13,7 @@ require(nnet)
 
 
 Accuracies <- c(0.00)
-for (i in seq(1))
+for (i in seq(100))
 {
  
   inTrain <- createDataPartition(cqhp$metal_level, p = .80, list = FALSE)
