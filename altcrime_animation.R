@@ -11,7 +11,7 @@ require(dplyr)
 
 #Load data
 altcrime <- read.csv('altcrime.csv')
-
+attach(altcrime)
 
 #Load the map data, set color value to -1
 s = map_data('world')
