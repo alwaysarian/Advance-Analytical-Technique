@@ -86,48 +86,7 @@ Table 1 shows the results and how other machine learning techniques compares to 
 | 5     | Logistic Regression | 64 | 70 | 82 |
 | 6     | Neural Network | 71 | 74 | 84 |
 
-
-
-## The code explanation with results
-
-##### 1. To code the data visualization first we need to import important library like Panda, Seaborn and Matplotlib
-
-##### 2. We then import the Iris.csv data into python
-
-##### 3. We now run the scatter plot to check how the data is scattered
-
-![GitHub Logo](/4.JPG) 
-
-
-
-
-
-
-
-60
-72
-3
-
-53
-60
-67
-4
-
-56
-64
-71
-5
-
-64
-70
-82
-6
-
-71
-74
-84
-
- Table s- Result comparison: Neural Network vs Basic Machine Learning
+Table - Result comparison: Neural Network vs Other Machine Learning
  
 ## Rating
 
