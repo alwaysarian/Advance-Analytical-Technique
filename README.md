@@ -1,4 +1,4 @@
-# Neural Networks
+# Estimating Ancestry using Neural Network Analysis of Dental Morphology
 ### Praveen Kumar Neelappa
 ## Description
 Neural networks, a subtype of machine learning, is a biologically-inspired programming paradigm which enable a computer to learn from existing observational data. These networks are represented as systems of interconnected “neurons”, which send messages to each other. The connections within the network can be systematically adjusted based on inputs and outputs, making them ideal for supervised learning.
