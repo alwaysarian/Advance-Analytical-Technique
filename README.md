@@ -98,7 +98,7 @@ Flexibility (3.5/5) This method handles different types of data in same dataset 
 
 Overall, I rate Neural Networks 4 out of 5.
 
-##For Further Information
+## For Further Information
 
 1.    Woodford, Chris. (2011/2017) Neural networks. http://www.explainthatstuff.com/introduction-to-neural-networks.html.
 
